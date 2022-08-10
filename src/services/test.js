@@ -1,3 +1,7 @@
 export function test() {
-  return <></>;
+  return (
+    <>
+      <h1>Teste Here</h1>
+    </>
+  );
 }
